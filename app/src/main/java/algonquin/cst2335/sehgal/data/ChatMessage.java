@@ -1,4 +1,4 @@
-package algonquin.cst2335.sehgal;
+package algonquin.cst2335.sehgal.data;
 public class ChatMessage {
     String message;
     String timeSent;

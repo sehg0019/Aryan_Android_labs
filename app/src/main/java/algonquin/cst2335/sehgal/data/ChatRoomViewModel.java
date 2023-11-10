@@ -1,11 +1,9 @@
-package algonquin.cst2335.sehgal;
+package algonquin.cst2335.sehgal.data;
 
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
 import java.util.ArrayList;
-
-import algonquin.cst2335.sehgal.ChatMessage;
 
 public class ChatRoomViewModel extends ViewModel {
     public MutableLiveData<ArrayList<ChatMessage>> messages = new MutableLiveData< >();

@@ -16,8 +16,8 @@ import java.util.ArrayList;
 import java.util.Date;
 
 import algonquin.cst2335.sehgal.R;
-import algonquin.cst2335.sehgal.ChatMessage;
-import algonquin.cst2335.sehgal.ChatRoomViewModel;
+import algonquin.cst2335.sehgal.data.ChatMessage;
+import algonquin.cst2335.sehgal.data.ChatRoomViewModel;
 import algonquin.cst2335.sehgal.databinding.ActivityChatRoomBinding;
 import algonquin.cst2335.sehgal.databinding.ReceiveMessageBinding;
 import algonquin.cst2335.sehgal.databinding.SentMessageBinding;
